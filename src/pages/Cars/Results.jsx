@@ -38,7 +38,7 @@ export default function Results() {
                   className="card-img-top img-fluid"
                   alt={item.manufacture}
                   style={{
-                    height: "195px",
+                    height: "300px",
                     borderRadius: "3px",
                     objectFit: "cover",
                   }}
